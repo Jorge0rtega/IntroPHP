@@ -1,0 +1,14 @@
+<?php include 'includes/header.php';
+echo "hola mundo";
+echo "<br>";
+echo ("hola mundo");
+echo "<br>";
+print "hola mundo";
+echo "<br>";
+print("hola mundo");
+echo "<br>";
+print_r("hola mundo");
+echo "<br>";
+var_dump("holaMundo");
+echo "<br>";
+include 'includes/footer.php';
